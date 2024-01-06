@@ -111,4 +111,53 @@ margin-top: 5px;
 /* skill related style */
 .skills-container{
     display: flex;
+    gap: 25px;
+}
+.skill-description{
+    padding: 30px;
+    
+}
+.skill{
+    padding: 30px;  
+    gap: 25px;
+}
+main > section{
+    gap: 200px;
+}
+.Resume-column-title{
+    direction: ;
+    color: darkgrey;
+    display: flex;
+}
+.resume-container{
+    display: flex;
+    gap: 50px;
+}
+.resume-item-description{
+    color: grey;
+}
+.download-cv{
+    text-align: center;
+}
+footer{
+    display: flex;
+    background-color: blanchedalmond;
+    padding: 130px 200px;
+    margin: 100px;
+}
+.resume-column{
+    display: flex;
+}
+.footer-column{
+    50%
+}
+.contact input[type="text"], .contact input[type="email"], textarea{
+    display: block;
+    margin-bottom: 25px;
+    padding: 18px 25px;
+    background-color: bisque;
+    border-radius: 0;
+}
+.social-links a{
+    margin-right: 25px;
 }
